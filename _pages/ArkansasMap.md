@@ -2,13 +2,9 @@
 layout: archive
 permalink: /ArkansasMaps/
 title: "Visualizations of Arkansas Data"
-author_profile: true
-header: 
 
 ---
 
-
-{% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
