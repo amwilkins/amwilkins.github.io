@@ -1,0 +1,9 @@
+name: "Austins-website"
+output_dir: "."
+navbar:
+  title: "Austin Wilkins Personal Blog"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
