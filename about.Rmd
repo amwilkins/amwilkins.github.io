@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-This is a personal blog! I like to use pet projects as a methods of learning new methods of data analysis. 
+This is a personal blog! I like to use pet projects as a method of learning new methods of data analysis. 
 
 
 
