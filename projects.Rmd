@@ -2,9 +2,10 @@
 title: "Projects"
 ---
 
-I like to do little projects to explore data and learn now methods of performing research. Here are a few examples.
+I like to do projects to explore data and learn new methods of performing research. Here are a few examples.
 
-## [Arkansas Maps](https://amwilkins.github.io/Ar-base.html)
+## [Arkansa Base Map](https://amwilkins.github.io/Ar-base.html)
 
 - An RMarkdown presentation on the production of a simple base map layer.
+- Creates a base map object for use in later data visualizations.
 
