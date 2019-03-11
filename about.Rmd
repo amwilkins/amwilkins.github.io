@@ -6,4 +6,4 @@ This is a personal blog! I like to use pet projects as a methods of learning new
 
 
 
-![](/home/austin/Pictures/Honey Collective/IMG_7842.JPG)
+![](images/IMG_7842.JPG)
